@@ -2,8 +2,9 @@
   "name": "corresponding-files",
   "displayName": "Corresponding file opener",
   "description": "Quickly switch between corresponding source/header files with keyboard shortcuts",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "eduardo-moro",
+  "repository": "https://github.com/eduardo-moro/corresponding-file-opener",
   "engines": {
     "vscode": "^1.99.0"
   },
